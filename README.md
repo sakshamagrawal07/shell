@@ -47,10 +47,10 @@ Implemented directly in the shell process (without spawning child processes):
 1. Clone the repo and make sure you have a gcc installed
 2. Install the dependencies using the below commands
     ```bash
-        sudo apt update
-        sudo apt install build-essential libreadline-dev
+    sudo apt update
+    sudo apt install build-essential libreadline-dev
     ```
 3. Build and run
     ```bash
-        make run
+    make run
     ```
