@@ -40,7 +40,6 @@ Implemented directly in the shell process (without spawning child processes):
   ```sh
   ls | grep .c | wc -l
 
----
 
 ## ⚙️ Running The Code (Linux)
 
